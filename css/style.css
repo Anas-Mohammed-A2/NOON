@@ -1,0 +1,384 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+
+
+
+
+
+
+.btn{
+margin-top: 10px;
+}
+.btn2{
+margin-right: 30px;
+}
+
+.corsl img {
+  width: 100%;
+  
+
+}
+
+
+
+
+.corsl {
+  margin-top: 15px;
+}
+.sec img {
+  width: 100px;
+  margin-left: 10px;
+}
+.sec {
+  margin-top: 50px;
+}
+.img img {
+  width: 450px;
+}
+.imgs img {
+  width: 200px;
+}
+#imm {
+  width: 400px;
+}
+.SEC1 {
+  margin-top: 100px;
+}
+.imgs_row1 img {
+  width: 200px;
+}
+.Row1 {
+  display: flex;
+}
+.Row2 {
+  margin-left: 20px;
+}
+.div_1 {
+  display: flex;
+  justify-content: space-between;
+}
+.btn {
+  margin-left: 20px;
+}
+.div_1 h1 {
+  margin-right: 20px;
+  color: black;
+}
+.card h5 {
+  margin-left: 70px;
+  color: black;
+}
+.express {
+  margin-left: 90px;
+}
+.discount {
+  color: rgb(0, 255, 17);
+  margin-right: 10px;
+}
+.pagrfh {
+  display: flex;
+  margin-left: 50px;
+}
+
+.cards h5 {
+  margin-left: 75px;
+  color: black;
+}
+
+.pagrfh_1 {
+  display: flex;
+  margin-left: 60px;
+}
+
+.expresss {
+  margin-left: 110px;
+}
+
+.card_1 h5 {
+  margin-left: 90px;
+  color: black;
+}
+
+.pagrfh_2 {
+  display: flex;
+  margin-left: 80px;
+}
+
+.expresss_1 {
+  margin-left: 130px;
+}
+.card {
+  margin-left: 40px;
+}
+.card_2 h5 {
+  margin-left: 130px;
+  color: black;
+}
+.expresss_11 {
+  margin-left: 100px;
+}
+.pagrfhh {
+  display: flex;
+  margin-left: 40px;
+}
+.expresss {
+  margin-left: 120px;
+}
+.express {
+  margin-left: 150px;
+}
+.express_s {
+  margin-left: 120px;
+}
+.pagrfh_3 {
+  display: flex;
+  margin-left: 110px;
+}
+.express_ss {
+  margin-left: 110px;
+}
+.express_s2 {
+  margin-left: 180px;
+}
+.pagrfhhh {
+  display: flex;
+  margin-left: 65px;
+}
+#heding {
+  margin-left: 100px;
+}
+.pagrfh_5 {
+  display: flex;
+  margin-left: 55px;
+}
+.carousel-control-prev-icon {
+  color: black;
+}
+.carousel-control-next-icon {
+  color: black;
+}
+.div_1 img {
+  width: 100%;
+}
+.sectionn {
+  margin-top: 80px;
+}
+
+.sectionn1 {
+  margin-top: 30px;
+}
+.immgs img {
+  width: 100%;
+  margin-top: 60px;
+}
+.SECTION img {
+  width: 100%;
+}
+.SECTION {
+  margin-top: 50px;
+}
+.DIV_1 img {
+  width: 100%;
+  margin-top: 40px;
+}
+
+.express__ss {
+  margin-left: 100px;
+}
+.cards_s p {
+  display: flex;
+}
+.pagrfhf {
+  display: flex;
+  margin-left: 80px;
+}
+.card_d h5 {
+  margin-left: 110px;
+}
+.pagrfh_h {
+  display: flex;
+  margin-left: 98 px;
+}
+.pagrfh_f {
+  display: flex;
+  margin-left: 60px;
+}
+.pagrfh_p {
+  display: flex;
+  margin-left: 55px;
+}
+.pagrfh_a {
+  display: flex;
+  margin-left: 70px;
+}
+.pagrfh_r {
+  display: flex;
+  margin-left: 90px;
+}
+.divv {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 100px;
+}
+.divv h1 {
+  color: black;
+}
+.divi {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 100px;
+}
+.divi h1 {
+  color: black;
+}
+.watch h5 {
+  margin-left: 100px;
+  color: #000;
+}
+.pagrfh_s {
+  display: flex;
+  margin-left: 80px;
+}
+
+.express___ss {
+  margin-left: 130px;
+}
+.express___s {
+  margin-left: 135px;
+}
+.pagrfh_pp {
+  display: flex;
+  margin-left: 85px;
+}
+.pagrfh__pp {
+  display: flex;
+  margin-left: 115px;
+}
+.watch_s h5 {
+  color: rgb(0, 0, 0);
+  margin-left: 150px;
+}
+.axpress {
+  margin-left: 180px;
+}
+.watch_h h5 {
+  color: rgb(0, 0, 0);
+  margin-left: 90px;
+}
+.exprisss {
+  margin-left: 110px;
+}
+.expricss {
+  margin-left: 130px;
+}
+.Toys img {
+  width: 100%;
+  margin-top: 100px;
+  margin-bottom: 30px;
+}
+.Toy h5 {
+  color: #000;
+  margin-left: 100px;
+}
+.hsm {
+  display: flex;
+  margin-left: 80px;
+}
+.Toy_1 h5 {
+  color: #000;
+  margin-left: 120px;
+}
+.hsm_1 {
+  display: flex;
+  margin-left: 90px;
+}
+
+.Telphon img {
+  width: 100%;
+  margin-top: 100px;
+  margin-bottom: 70px;
+}
+
+.baby {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  background-color: #ffe9e2;
+}
+.baby img {
+  width: 100%;
+}
+.girls img {
+  width: 100%;
+  margin-bottom: 20px;
+}
+.girls {
+  margin-top: 120px;
+  margin-bottom: 60px;
+}
+
+.SECTIOn {
+  margin-top: 80px;
+  margin-bottom: 60px;
+  background-color: rgba(250, 63, 125, 0.746);
+  padding-bottom: 30px;
+}
+.SECTION {
+  background-color: #a4f0ef4d;
+  padding-bottom: 30px;
+}
+.SECTIOn img {
+  width: 100%;
+}
+.Market img {
+  width: 100%;
+  margin-top: 80px;
+  margin-bottom: 50px;
+}
+.SECTIO {
+  margin-top: 80px;
+  margin-bottom: 60px;
+  background-color: rgba(75, 184, 53, 0.334);
+  padding-bottom: 30px;
+}
+.SECTIO img {
+  width: 100%;
+}
+.BABY img {
+  width: 100%;
+  margin-bottom: 30px;
+}
+.BABY {
+  margin-top: 100px;
+  margin-bottom: 60px;
+  background-color: rgba(255, 186, 209, 0.286);
+}
+
+
+
+.Categories img {
+  width: 100%;
+  margin-bottom: 30px;
+}
+.Categories {
+  margin-top: 100px;
+  margin-bottom: 60px;
+  background-color: rgba(255, 249, 186, 0.286);
+}
+
+.Brands img{
+width: 100%;
+}
+.Brands{
+margin-top: 80px;
+margin-bottom: 60px;
+}
+
+.Brands img{
+  margin-bottom: 15px;
+margin-top: 15px;
+}

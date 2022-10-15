@@ -1,0 +1,13 @@
+MARKET
+
+
+     <h5 style=" margin-left: 120px; color: #000;">336.06  جنيه</h5>
+
+      <div style="display: flex; margin-left: 100px;" >
+        <span class="discount">%خصم 9</span>
+            <p class="oldPrice"><del>جنيه 400</del></p>
+          </div>
+          
+          <div style="margin-top: 30px; margin-left: 140px;">
+            <img src="https://f.nooncdn.com/s/app/com/noon/images/fulfilment_express_v2-ar.svg" alt="noon-express" class="sc-b51db3f-1 bGljQY" width="80px" height="20px">
+            </div>
